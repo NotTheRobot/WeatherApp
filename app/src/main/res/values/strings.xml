@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherApp</string>
+    <string name="connection_error">Connection error</string>
+    <string name="today">Today</string>
+    <string name="require_permission_message">You must grant access to geolocation for it to work correctly</string>
+    <string name="grant_access">Allow</string>
+</resources>

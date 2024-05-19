@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="connection_error">Ошибка соединения</string>
+    <string name="today">Сегодня</string>
+    <string name="require_permission_message">Для работы приложения необходимо предоставить доступ к геолокации</string>
+    <string name="grant_access">Разрешить</string>
+</resources>
+
